@@ -1,0 +1,17 @@
+{
+    "assinantes": [
+        {
+            "nome": "André Lucas",
+            "sobrenome": "Freitas",
+            "idade": 31,
+            "estudante": false
+        },
+        {
+            "nome": "Marcelo Moreira",
+            "sobrenome": "Franco",
+            "idade": 56,
+            "estudante": true
+        }
+    ],
+    "atualizacao": "2024-12-01"
+}
